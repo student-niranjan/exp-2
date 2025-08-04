@@ -1,0 +1,1 @@
+Title:exp-2\nName:Niranjan Tharu\nPrn=2202004\n Listof the  program are : \n 1.Bubble \n 2.Factorial \n 3.Linear search \n 4.File I\o \n 5.matrix multiplication\n we have to click on the button for copile and run. 
